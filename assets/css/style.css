@@ -1810,8 +1810,40 @@ img {
 
   .doctor-card-wrapper {
     max-width: 330px;
-    margin: 0 auto 30px;
+    margin: 0 auto 34px;
     position: relative;
+  }
+
+  .doctor-photo-frame {
+    padding: 10px;
+    border-radius: 20px;
+  }
+
+  .doctor-image-container {
+    aspect-ratio: 1 / 1.28;
+  }
+
+  .doctor-verified-badge {
+    bottom: 8px;
+    left: 8px;
+    right: 8px;
+    padding: 8px 12px;
+    border-radius: 12px;
+  }
+
+  .verified-info h4 {
+    font-size: 0.92rem;
+    margin-bottom: 1px;
+  }
+
+  .verified-info p {
+    font-size: 0.72rem;
+  }
+
+  .verified-icon {
+    width: 28px;
+    height: 28px;
+    font-size: 0.85rem;
   }
 
   .floating-chip {
@@ -1886,11 +1918,30 @@ img {
 
   .doctor-card-wrapper {
     max-width: 295px;
-    margin: 0 auto 32px;
+    margin: 0 auto 34px;
+  }
+
+  .doctor-image-container {
+    aspect-ratio: 1 / 1.30;
+  }
+
+  .doctor-verified-badge {
+    bottom: 6px;
+    left: 6px;
+    right: 6px;
+    padding: 6px 10px;
+  }
+
+  .verified-info h4 {
+    font-size: 0.86rem;
+  }
+
+  .verified-info p {
+    font-size: 0.68rem;
   }
 
   .chip-online {
-    top: 10px;
+    top: 8px;
     right: -4px;
   }
 
