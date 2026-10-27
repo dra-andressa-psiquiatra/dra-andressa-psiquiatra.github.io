@@ -551,7 +551,7 @@ img {
 }
 
 .chip-experience {
-  bottom: 80px;
+  bottom: 125px;
   left: -35px;
   animation: floatAnim2 4.2s ease-in-out infinite 1.5s;
 }
@@ -1810,7 +1810,7 @@ img {
 
   .doctor-card-wrapper {
     max-width: 330px;
-    margin: 0 auto 34px;
+    margin: 0 auto 48px;
     position: relative;
   }
 
@@ -1865,7 +1865,7 @@ img {
   }
 
   .chip-experience {
-    bottom: -20px;
+    bottom: -34px;
     left: -8px;
   }
 
@@ -1918,7 +1918,7 @@ img {
 
   .doctor-card-wrapper {
     max-width: 295px;
-    margin: 0 auto 34px;
+    margin: 0 auto 48px;
   }
 
   .doctor-image-container {
@@ -1946,7 +1946,7 @@ img {
   }
 
   .chip-experience {
-    bottom: -22px;
+    bottom: -36px;
     left: -4px;
   }
 }
